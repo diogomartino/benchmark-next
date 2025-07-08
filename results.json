@@ -1,0 +1,15 @@
+{
+  "startMemory": 1426.59375,
+  "endMemory": 1446.84375,
+  "startTime": 46.307684,
+  "endTime": 295.399584,
+  "totalTime": 0,
+  "coldResults": {
+    "/": 47.94763,
+    "/clutch/fn-runner/": 44.99771199999999,
+    "/clutch_views/1346_624/": 44.999652999999995,
+    "/clutch_views/1654_15/": 61.218883000000005,
+    "/page/": 49.76136999999997
+  },
+  "warmResults": {}
+}
